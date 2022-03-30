@@ -1,0 +1,3 @@
+this is software engineering lab practice session
+
+now adding line for checking the diff command
